@@ -8,6 +8,4 @@ Big Sur 11.6.8
 Catalina 10.15.7
 
 Config : 
-CPU : Ryzen 7 2700X 4,15Ghz
-RAM : 16GB of DDR4
-GPU : AMD RX 580
+CPU : Ryzen 7 2700X 4,15Ghz ; RAM : 16GB of DDR4 ; GPU : AMD RX 580
