@@ -9,4 +9,4 @@ Base on OpenCore 0.8.2
 Work for Monterey 12.2.1; Big Sur 11.6.8; Catalina 10.15.7
 
 Config : 
-CPU : Ryzen 7 2700X 4,15Ghz ; RAM : 16GB of DDR4 ; GPU : AMD RX 580
+CPU : Ryzen 7 2700X 3.7 GHz ; RAM : 16GB of DDR4 ; GPU : AMD RX 580
